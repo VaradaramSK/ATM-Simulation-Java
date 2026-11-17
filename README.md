@@ -42,7 +42,7 @@ The project demonstrates the practical implementation of Java programming concep
 5. Process the transaction.
 6. Display the updated account balance.
 
-## Application Structure
+## ⚙️ Application Structure
 
 <img width="547" height="835" alt="image" src="https://github.com/user-attachments/assets/e4d57824-8624-414e-9432-69d9c2b94fb8" />
 
